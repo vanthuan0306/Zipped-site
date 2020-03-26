@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://academiavietnam.com/amaps.xml
+Sitemap: http://academiavietnam.com/plagins.xml

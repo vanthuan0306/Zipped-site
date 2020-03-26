@@ -1,0 +1,23 @@
+/*
+Theme Name: Trung tâm                
+Author: Nhật Thương                  
+Description:  giao diện 
+Version: 1.0
+*/
+@font-face {
+  font-family: Oswald;
+  src: url('/wp-content/themes/trungtam/css/VNF-Oswald-Regular.ttf');
+}
+@font-face {
+  font-family: SFUFU;
+  src: url('/wp-content/themes/trungtam/css/SFUFuturaRegular.TTF');
+}
+@font-face {
+  font-family: SFUFUlight;
+  src: url('/wp-content/themes/trungtam/css/SFUFuturaLight.TTF');
+}
+@font-face {
+  font-family: SFUFUBLOD;
+  src: url('/wp-content/themes/trungtam/css/SFUFuturaBold.TTF');
+	
+}
